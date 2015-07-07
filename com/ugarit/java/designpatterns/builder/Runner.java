@@ -24,7 +24,6 @@ public class Runner {
 
 		logger.log(Level.INFO, "Object Color is {}", largeObject.get()
 				.getColor());
-		System.out.println(largeObject.get().getColor());
 	}
 
 }
